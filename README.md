@@ -13,7 +13,7 @@ but are not gauranteed for commercial uses (not that any of this should be used 
 
 Once again this is not a good example of go or blogs or anything really but I figured it existing on github wasnt the worst coding ive ever done.
 
-So here it goes.
+So here it goes, a package with some really poor design choices.
 
 
 
