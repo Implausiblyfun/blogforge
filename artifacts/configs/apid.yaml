@@ -1,0 +1,10 @@
+tracing: 
+  enabled: true
+gin: 
+  productionmode: false
+secret: scariestKey
+databases:
+  -
+    friendly: basicDB
+    host: intger_db
+    dbname: mysql_blogforge
